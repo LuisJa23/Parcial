@@ -1,0 +1,26 @@
+[ {
+  "nombre_sede" : "NORTE",
+  "codigo_sede" : "1",
+  "sede_principal" : "N",
+  "lista_empleados_sede" : [ ]
+}, {
+  "nombre_sede" : "SUR",
+  "codigo_sede" : "2",
+  "sede_principal" : "N",
+  "lista_empleados_sede" : [ ]
+}, {
+  "nombre_sede" : "SEDE SUR",
+  "codigo_sede" : "3",
+  "sede_principal" : "N",
+  "lista_empleados_sede" : [ ]
+}, {
+  "nombre_sede" : "NOROESTE",
+  "codigo_sede" : "876",
+  "sede_principal" : "N",
+  "lista_empleados_sede" : [ ]
+}, {
+  "nombre_sede" : "OCCIDENTE",
+  "codigo_sede" : "4",
+  "sede_principal" : "N",
+  "lista_empleados_sede" : [ ]
+} ]

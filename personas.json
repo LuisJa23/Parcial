@@ -1,0 +1,21 @@
+[ {
+  "id_persona" : "11",
+  "nombre_apellido_persona" : "LUIS CASTRO",
+  "empleado_jefe" : "N"
+}, {
+  "id_persona" : "12",
+  "nombre_apellido_persona" : "LAURA",
+  "empleado_jefe" : "N"
+}, {
+  "id_persona" : "098",
+  "nombre_apellido_persona" : "BRA",
+  "empleado_jefe" : "N"
+}, {
+  "id_persona" : "654",
+  "nombre_apellido_persona" : "CAR",
+  "empleado_jefe" : "N"
+}, {
+  "id_persona" : "9746",
+  "nombre_apellido_persona" : "LEO",
+  "empleado_jefe" : "N"
+} ]

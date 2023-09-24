@@ -1,0 +1,27 @@
+[ {
+  "nombre_empresa" : "A",
+  "codigo_empresa" : "76",
+  "lista_sedes_empresa" : [ {
+    "nombre_sede" : "SUR",
+    "codigo_sede" : "2",
+    "sede_principal" : "N",
+    "lista_empleados_sede" : [ ]
+  }, {
+    "nombre_sede" : "OCCIDENTE",
+    "codigo_sede" : "4",
+    "sede_principal" : "N",
+    "lista_empleados_sede" : [ ]
+  } ]
+}, {
+  "nombre_empresa" : "B",
+  "codigo_empresa" : "1",
+  "lista_sedes_empresa" : [ ]
+}, {
+  "nombre_empresa" : "C",
+  "codigo_empresa" : "3",
+  "lista_sedes_empresa" : [ ]
+}, {
+  "nombre_empresa" : "D",
+  "codigo_empresa" : "4",
+  "lista_sedes_empresa" : [ ]
+} ]
